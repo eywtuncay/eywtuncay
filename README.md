@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eywtuncay&show_icons=true&locale=en" alt="eywtuncay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eywtuncay&" alt="eywtuncay" /></p>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
