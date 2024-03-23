@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **.Net**
 
-- 👨‍💻 All of my projects are available at [https://github.com/eywtuncay?tab=repositories](https://github.com/eywtuncay?tab=repositories)
-
 - 💬 Ask me about **Unity C# and .Net**
 
 - 📫 How to reach me **tuncay.albayrak.65@outlook.com**
