@@ -1,4 +1,6 @@
-
+<p align="center">
+  <a href="#"> 
+    <img src= "https://readme-typing-svg.demolab.com/?font=Source+Code+Pro&weight=600&size=32&duration=2500&pause=1000&color=00E7FF&background=5670FF00&center=true&vCenter=true&width=440&height=100&lines=Game+Developer; Web+Developer" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Tuncay ALBAYRAK</h1>
 <h3 align="center">Jr. Game and .Net developer from Turkey</h3>
 
